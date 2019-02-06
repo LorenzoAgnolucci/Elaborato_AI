@@ -1,0 +1,6 @@
+%dimensione della scacchiera nxn
+n = 10;
+
+%array[1..7] di int rappresentante il numero di pezzi per ogni tipo di pezzo
+%Ordine dei pezzi: k = [I, J, L, O, S, T, Z]
+k = [2, 2, 2, 2, 2, 2, 2]; 
