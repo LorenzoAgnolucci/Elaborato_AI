@@ -11,3 +11,5 @@ all'interno di Minizinc IDE):
 -number of threads = 10,   per migliorare le prestazioni e diminuire il tempo di risoluzione
 
 -output timing information = flagged,  per visualizzare il tempo di risoluzione
+
+Il lavoro è stato svolto in autonomia, senza l'utilizzo di fonti.
