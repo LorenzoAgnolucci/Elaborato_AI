@@ -3,7 +3,7 @@
 # Elaborato IA
 Disposizione di oggetti con la forma dei pezzi del Tetris su una scacchiera
 
-Per scegliere i valori di input si deve modificare il file Dati_input.dzn, e poi usarlo come data file per eseguire Modello.mzn.
+Per scegliere i valori di input si deve modificare il file Dati_input.dzn, e poi eseguire Modello.mzn.
 
 Si deve usare il solver Gecode 6.1.0 [built-in], preferibilmente con i seguenti parametri (modificabili con il configuration editor
 all'interno di Minizinc IDE):
