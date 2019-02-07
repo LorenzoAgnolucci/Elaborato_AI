@@ -1,4 +1,5 @@
 include "globals.mzn";    %per poter utilizzare count(array of var int, int)
+include "Dati_input.dzn";
 
 %input
 int: n;
