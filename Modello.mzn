@@ -102,7 +102,8 @@ constraint forall(b in blocks)(
 solve :: seq_search([
     int_search(posX, first_fail, indomain_random, complete),
     int_search(posY, first_fail, indomain_random, complete),
-    int_search(rotation, first_fail, indomain_min, complete),   
+    int_search(rotation, first_fail, indomain_min, complete),
+    restart_linear(1000)
     ])
 satisfy;
 
